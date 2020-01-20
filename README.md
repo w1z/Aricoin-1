@@ -1,15 +1,10 @@
-# Aricoin Network (ARI)
-==========================
+# Aricoin Network Code (2020)
 
 ![Aricoin](http://aricoin.org/assets/aricoin-logo.svg)
 
 
 ## What is Aricoin?
-Aricoin is a a digital currency descended from Bitcoin. Unlike Bitcoin it does not use SHA256 as its proof of work (POW). Aricoin employs a simplified variant of scrypt much like Litecoin. The goal of the Aricoin Project is to make cryptocurrency accessible to everyone. Aricoin enables instant payments to
-anyone, anywhere. The Aricoin Network uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. The Aricoin Network is the name of open source
-software which enables the use of this currency. The Aricoin Project is a collective of developers who share the same vision - making cryptocurrency accessible to everyone. 
+Aricoin is a a digital P2P currency descended from Bitcoin. Aricoin allows you to tip any social media user or website with just a username or web URL. Full features can be used with http://aricoinpay.com
 
 For more information, as well as an immediately useable, binary version of
 the Aricoin Network software, see [http://aricoin.org](http://aricoin.org).
@@ -36,13 +31,22 @@ the Aricoin Network software, see [http://aricoin.org](http://aricoin.org).
 
 ## Block Rewards
 Block 15,001-50,000, Payout 1000 coins per block
+
 Block 50,001-150,000, Payout 500 coins per block
+
 Block 150,001-300,000, Payout 300 coins per block
+
 Block 300,001-500,000, Payout 200 coins per block
+
 Block 500,001-1,000,000, Payout 100 coins per block
+
 Block 1,000,001 - 2,000,000, Payout 50 coins per block
+
 Block 2,000,001 - 3,000,000, Payout 10 coins per block
+
 Block 3,000,001 and afterwards, Payout 1 coin per block
+
+
 
 
 
